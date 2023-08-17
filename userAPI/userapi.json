@@ -1,0 +1,64 @@
+
+[
+    {
+      "name"  : "Naveen",
+      "age"   : "21",
+      "class" : "EE",
+      "state" : "up"
+    },
+    {
+        "name"  : "Nirmal",
+        "age"   : 22,
+        "class" : "XE",
+        "state" : "up"
+      },
+      {
+        "name"  : "Nityan",
+        "age"   : 19,
+        "class" : "ME",
+        "state" : "up"
+      },
+      {
+        "name"  : "Naveet",
+        "age"   : 20,
+        "class" : "CE",
+        "state" : "up"
+      },
+
+        {
+          "id": 1,
+          "name": "John Doe",
+          "email": "john@example.com",
+          "age": 28,
+          "city": "New York"
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "email": "jane@example.com",
+          "age": 35,
+          "city": "Los Angeles"
+        },
+        {
+          "id": 3,
+          "name": "Alice Johnson",
+          "email": "alice@example.com",
+          "age": 22,
+          "city": "Chicago"
+        },
+        {
+          "id": 4,
+          "name": "Michael Brown",
+          "email": "michael@example.com",
+          "age": 42,
+          "city": "Houston"
+        },
+        {
+          "id": 5,
+          "name": "Emily Wilson",
+          "email": "emily@example.com",
+          "age": 31,
+          "city": "San Francisco"
+        }
+      ]
+      
